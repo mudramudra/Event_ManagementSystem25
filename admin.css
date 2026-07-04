@@ -1,0 +1,31 @@
+:root{
+--dept-maroon:#800000;
+--dept-gold:#FFD700;
+}
+
+.bg-maroon{
+background-color: var(--dept-maroon) !important;
+}
+
+.text-maroon{
+color: var(--dept-maroon);
+}
+
+.btn-maroon{
+background-color: var(--dept-maroon);
+color:white;
+}
+
+.btn-maroon:hover{
+background-color:#5c0000;
+color:white;
+}
+
+table{
+background:white;
+}
+
+body{
+background:#f5f5f5;
+font-family: Arial;
+}

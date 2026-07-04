@@ -1,0 +1,28 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.calendar-box {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.date-item {
+    padding: 10px;
+    margin-bottom: 8px;
+    border-radius: 6px;
+    background: #f8f9fa;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.date-item:hover {
+    background: #ffe082;
+}
+
+.active {
+    background: #ffc107 !important;
+    font-weight: bold;
+}

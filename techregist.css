@@ -1,0 +1,33 @@
+body {
+    background-color: #f4f4f4;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.registration-card {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 500px;
+    border-top: 5px solid #800000;
+}
+
+.title {
+    color: #800000;
+    font-weight: bold;
+}
+
+.btn-maroon {
+    background-color: #800000;
+    color: white;
+}
+
+.btn-maroon:hover {
+    background-color: #600000;
+    color: white;
+}

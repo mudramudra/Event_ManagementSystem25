@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+    padding-top: 50px;
+}
+
+.registration-card {
+    max-width: 500px;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    color: #800000;
+    font-weight: bold;
+}
+
+.btn-maroon {
+    background-color: #800000;
+    color: white;
+    font-weight: 600;
+}
+
+.btn-maroon:hover {
+    background-color: #5a0000;
+    color: white;
+}

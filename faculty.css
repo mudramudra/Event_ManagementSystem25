@@ -1,0 +1,23 @@
+body{
+background:#f1e9e9;
+font-family:Arial;
+}
+
+.bg-maroon{
+background:#800000;
+}
+
+.text-maroon{
+color:#800000;
+font-weight:bold;
+}
+
+.btn-maroon{
+background:#800000;
+color:rgb(247, 239, 239);
+}
+
+.btn-maroon:hover{
+background:#6c2b2b;
+color:rgb(236, 231, 231);
+}
